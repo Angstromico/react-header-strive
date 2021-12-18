@@ -1,8 +1,8 @@
 # React App Strive Header
 
-![Screenshop](https://raw.githubusercontent.com/Angstromico/react-header-strive/master/strive.png)
+![Screenshop](https://raw.githubusercontent.com/Angstromico/react-header-strive/master/stripe.png)
 
-# [See The App Here](https://manuel-morales-modal-sidebar-app-react.netlify.app/)
+# [See The App Here](https://manuel-morales-modal-header-stripe-app-react.netlify.app/)
 
 # Getting Started with Create React App
 
